@@ -36,4 +36,8 @@
 
 ## 3. Конфликты
 
+*fast-forward*
+
+*auto-merge ORT*
+
 ## 4. Итоги
